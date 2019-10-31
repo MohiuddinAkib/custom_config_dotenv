@@ -1,0 +1,11 @@
+{
+  "app": {
+    "ENV": "development",
+    "DB": {
+      "host": "localhost",
+      "nested": {
+        "hahah": "asdf"
+      }
+    }
+  }
+}

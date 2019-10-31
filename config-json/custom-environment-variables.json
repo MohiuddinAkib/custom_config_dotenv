@@ -1,0 +1,8 @@
+{
+  "app": {
+    "PORT": "PORT",
+    "DB": {
+      "host": "localhost"
+    }
+  }
+}
